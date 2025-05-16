@@ -13,7 +13,7 @@ def save_chart(fig, filename):
 # 1. Fee Efficiency by Product
 df1 = pd.read_csv(f"{DATA_DIR}/fee_efficiency_by_product.csv")
 fig1, ax1 = plt.subplots()
-df1.head(10).plot(kind="bar", x="product_name", y="fee_per_dollar", ax=ax1, legend=False)
+df1.head(10).plot(kind="bar", x="product_label", y="fee_per_dollar", ax=ax1, legend=False)
 ax1.set_title("Fee Efficiency by Product")
 ax1.set_ylabel("Fee per Dollar")
 save_chart(fig1, "fee_efficiency_by_product.png")

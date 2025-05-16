@@ -13,7 +13,8 @@ os.makedirs(OUTDIR, exist_ok=True)
 queries = {
     "fee_efficiency_by_product": """
         SELECT 
-            pr.name AS product_name,
+            pr.product_id,
+            pr.name || ' (' || pr.fee_pct || '%)' AS product_label,
             pr.category,
             ROUND(SUM(t.amount * pr.fee_pct / 100.0), 2) AS total_fees,
             ROUND(SUM(t.amount), 2) AS total_volume,
