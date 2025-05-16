@@ -1,16 +1,16 @@
-# 📊 Investor Behavior Patterns
+# Investor Behavior Patterns
 
 **Uncovering Monetizable Trends from Synthetic Financial Activity Data**
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project explores simulated investor behavior to identify monetization opportunities, regional investment patterns, and user segments with strategic growth potential. By analyzing synthetic transactional and product usage data, I developed actionable insights that can inform business strategy, customer segmentation, and product positioning.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 
 To analyze patterns in investor behavior across risk preferences, regions, product types, and account activity in order to:
 
@@ -21,7 +21,7 @@ To analyze patterns in investor behavior across risk preferences, regions, produ
 
 ---
 
-## 🧰 Tools & Techniques
+## Tools & Techniques
 
 **Languages & Libraries:**
 - Python: `pandas`, `matplotlib`, `seaborn`
@@ -36,7 +36,7 @@ To analyze patterns in investor behavior across risk preferences, regions, produ
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 | Insight | Description |
 |--------|-------------|
@@ -48,7 +48,7 @@ To analyze patterns in investor behavior across risk preferences, regions, produ
 
 ---
 
-## 💡 Business Value
+## Business Value
 
 This analysis helps financial services and digital investment platforms:
 
@@ -59,7 +59,7 @@ This analysis helps financial services and digital investment platforms:
 
 ---
 
-## 🧠 Personal Takeaways
+## Personal Takeaways
 
 - Improved my ability to structure a business-oriented analytics project from synthetic data  
 - Learned how to identify key revenue levers in behavioral finance  
@@ -68,8 +68,8 @@ This analysis helps financial services and digital investment platforms:
 
 ---
 
-## 🤝 Contact
+## Contact
 
 **Ryan Nesbitt**  
-📫 rmnesbitt@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rmnesbitt)
+rmnesbitt@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/rmnesbitt)
